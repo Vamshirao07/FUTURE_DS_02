@@ -27,7 +27,7 @@ Pivot Tables & KPI Calculations
 Power BI (Dashboard Visualization)
 Data Analysis Techniques
 ## Dashboard Features
-The dashboard includes:
+<img width="1635" height="664" alt="customer retention and churn analysis" src="https://github.com/user-attachments/assets/a32ac39d-73c9-4205-8291-fbeec9b1a639" />
 #### KPI Metrics
 Total Customers
 Churn Rate %
@@ -61,3 +61,4 @@ Enhance value communication for high-paying customers.
 ## Project Outcome
 This dashboard enables businesses to monitor customer behavior, identify churn risk segments, and make data-driven decisions to improve retention and revenue stability.
 ## Conclusion
+The analysis shows that customer churn is primarily driven by short-term contracts, higher monthly charges, and lower tenure, highlighting the importance of improving early customer engagement and promoting long-term subscription plans to increase retention.
